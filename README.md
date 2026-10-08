@@ -61,10 +61,9 @@ An application that helps job seekers discover opportunities and enables compani
 
 ## Connect With Me
 
-- **LinkedIn:** [Maya Al-Maghrabi](https://www.linkedin.com/in/eng-maya-al-maghrebi?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **LinkedIn:** [Maya Al-Maghrabi](https://www.linkedin.com/in/eng-maya-al-maghrebi)
 - **GitHub:** [maya200315](https://github.com/maya200315)
-- **instagram** (https://www.instagram.com/mayatrix_?utm_source=qr&stkn=MXdmMmxlbXA5YnhrMg==)
-- **ه
----
+- **Instagram:** [MayaTrix](https://www.instagram.com/mayatrix_)
+  
 
 *Always learning, always building.* ✨
