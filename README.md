@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Maya Al-Maghrabi 👋
 
-<!--
-**maya200315/maya200315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Flutter & Laravel Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineer passionate about building practical, user-friendly applications. I enjoy turning ideas into working software, learning new technologies, and improving my development skills through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Focused on cross-platform mobile development with Flutter.
+- ⚙️ Building backend APIs with Laravel and PHP.
+- 🗄️ Working with Firebase, MySQL, and REST APIs.
+- 🌱 Continuously learning software engineering best practices.
+- 💼 Interested in software development opportunities and collaborative projects.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Mobile Development**
+- Flutter
+- Dart
+
+**Backend Development**
+- Laravel
+- PHP
+- REST APIs
+
+**Databases & Backend Services**
+- MySQL
+- Firebase
+- Cloud Firestore
+
+**Tools & Practices**
+- Git & GitHub
+- Android Studio
+- VS Code
+- State Management: Riverpod, Provider
+
+---
+
+## 🚀 Featured Projects
+
+### Teefi — Autism Support App
+A mobile application designed to support parents of children with Autism Spectrum Disorder (ASD) and connect them with specialists.
+
+**Technologies:** Flutter, Dart, Laravel, MySQL
+
+[View Repository](https://github.com/maya200315/Teefi)
+
+### SubTrack — Subscription Manager
+A subscription management application featuring renewal tracking, spending insights, and Arabic/English localization.
+
+**Technologies:** Flutter, Dart, Firebase, Riverpod
+
+[View Repository](https://github.com/maya200315/subtrack)
+
+### JOB — Job Search & Recruitment
+An application that helps job seekers discover opportunities and enables companies to publish job vacancies.
+
+[View All My Projects](https://github.com/maya200315?tab=repositories)
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [Maya Al-Maghrabi](https://www.linkedin.com/in/eng-maya-al-maghrebi?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **GitHub:** [maya200315](https://github.com/maya200315)
+- **instagram** (https://www.instagram.com/mayatrix_?utm_source=qr&stkn=MXdmMmxlbXA5YnhrMg==)
+- **ه
+---
+
+*Always learning, always building.* ✨
