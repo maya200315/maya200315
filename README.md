@@ -1,4 +1,4 @@
-# Hi, I'm Maya Al-Maghrabi 👋
+# Hi, I'm Maya Al-Maghrebi 👋
 
 ### Software Engineer | Flutter & Laravel Developer
 
