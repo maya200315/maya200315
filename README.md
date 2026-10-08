@@ -55,7 +55,7 @@ A subscription management application featuring renewal tracking, spending insig
 ### JOB — Job Search & Recruitment
 An application that helps job seekers discover opportunities and enables companies to publish job vacancies.
 
-[View All My Projects](https://github.com/maya200315?tab=repositories)
+[View All My Projects](https://github.com/maya200315/JOB)
 
 ---
 
